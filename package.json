@@ -1,0 +1,19 @@
+{
+  "name": "splits",
+  "version": "1.0.2",
+  "description": "various utilities for building speedrunning timers in browser or server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "speedrun",
+    "timer",
+    "splits",
+    "split",
+    "speed",
+    "run"
+  ],
+  "author": "Colin R. Casto",
+  "license": "MIT"
+}
