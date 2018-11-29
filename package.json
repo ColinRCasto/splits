@@ -14,6 +14,9 @@
     "speed",
     "run"
   ],
-  "author": "Colin R. Casto",
+  "author": {
+    "name": "Colin R. Casto"
+  },
+  "repository": "github:ColinRCasto/splits",
   "license": "MIT"
 }
